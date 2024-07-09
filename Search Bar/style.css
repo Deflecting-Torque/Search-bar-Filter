@@ -1,0 +1,53 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin:0%;
+    padding:0%;
+    background-color: rgb(235, 233, 233);
+}
+.search{
+    background-color: rgb(5, 5, 5);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-top: -20px;
+    padding: 30px;
+
+}
+.search h1{
+    font-size: 44px;
+    margin-top: 10px;
+
+}
+.search input{
+    width: 600px;
+    height: 45px;
+    padding: 10px;
+    border: none;
+    font-size: 24px;
+
+    outline:none;
+    border-radius: 10px;
+    font-size: 23px;
+
+}
+.head{
+    display: flex;
+    justify-content: center;
+}
+.head h3{
+    margin-inline: 80px;
+
+}
+table{
+    display:flex;
+    justify-content: center;
+    border: 2px solid black;
+    width: 700px;
+    margin-left: 353px;
+    padding: 7px;
+}
+table tr td{
+    width: 280px;
+    font-size: 17px;
+    padding: 6px;
+    
+}
